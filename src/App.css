@@ -1,0 +1,81 @@
+p {
+    color: #fff;
+}
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.footer{
+    background-color: #512DA8;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #9575CD ;
+    color:floralwhite;
+}
+.jumbotron-fluid{background:#512DA8; margin-bottom: 40px;}
+.logo span {
+    font-weight: 700;
+    color: #efa535;
+}
+a.nav-link {
+    color: #fff !important;
+}
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
+
+.navbar-dark {
+    background-color: #512DA8;
+}
+.page-enter {
+    opacity: 0.01;
+    transform: translateX(-100%);
+}
+
+.page-enter-active {
+    opacity: 1;
+    transform: translateX(0%);
+    transition: all 300ms ease-in;
+}
+
+.page-exit {
+    opacity: 1;
+    transform: translateX(0%);
+}
+
+.page-exit-active {
+    opacity: 0.01;
+    transform: translateX(100%);
+    transition: all 300ms ease-out;
+}
+button.btn.btn-outline-secondary {
+    color: #fff;
+}
+.bg-card {
+    background: #512DA8;
+}
+.modal-content {
+    background: #512DA8;
+}
+.modal-header h5 {
+    color: #fff;
+}
+.modal-header .close{color: #fff;}    
+
+.modal-body label {
+    color: #fff;
+}

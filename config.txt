@@ -1,0 +1,29 @@
+Hi,
+
+Thanks for showing interest in the REACT.JS Developer position at Fyntune Solution. Please create a Movie Blog App for the first round of interview. Please find the details below. Feel free to write if you have any questions.
+
+Details:
+Create a Movie Blog App in React with Redux, Redux-Thunk?
+•	Dummy Login Page with validations(name,email,password,number).
+•	Call MovieDB API and list down the movies with pagination(12 per page).
+•	Search input to search for movies.
+•	On Click of a Movie should display a detail page of that particular movie
+•	https://developers.themoviedb.org/3/getting-started/introduction for API documentation
+•	App Should be Responsive
+
+Submit Instruction:
+Code needs to be saved on the Github repository, screenshots and zip files need to send via email.
+You have 5 days to submit. Please submit by 16th September.
+
+
+Regards,
+Sweta
+Fyntune solution
+
+
+API Key (v3 auth)
+742e0082c3d9596c6c792c70f0930e14
+Example API Request
+https://api.themoviedb.org/3/movie/550?api_key=742e0082c3d9596c6c792c70f0930e14
+API Read Access Token (v4 auth)
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3NDJlMDA4MmMzZDk1OTZjNmM3OTJjNzBmMDkzMGUxNCIsInN1YiI6IjVmNWNmMGYzNmFmOGY4MDAzNDRiNzZjOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.g5gDhnBzb0DBE31dK77l5aCXvn8uetJ-MF-kxfUiGwE

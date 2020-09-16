@@ -1,0 +1,5 @@
+export const MOVIES_LOADING = 'MOVIES_LOADING';
+export const MOVIES_FAILED = 'MOVIES_FAILED';
+export const ADD_MOVIES = 'ADD_MOVIES';
+export const SEARCH_MOVIE = 'SEARCH_MOVIE';
+export const GET_MOVIE_DEATIAL = 'GET_MOVIE_DEATIAL';
